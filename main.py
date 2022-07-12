@@ -37,7 +37,7 @@
 from itertools import combinations
 
 
-def main():
+def main() -> int:
     """
     Returns the number of distinct arrangements of digits 0-9 on cubes
       which allows the formation of all squares less than 100,
